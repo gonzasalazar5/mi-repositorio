@@ -72,7 +72,7 @@ header div img {
 
 
 .nav-item {
-    color: #ee5f5a;
+    color: #e4c5c4;
     text-decoration: none;
     font-size: 23px;
     padding: 10px;
@@ -81,12 +81,12 @@ header div img {
 
 .colorBienvenidos {
     text-decoration: underline;
-    color: sandybrown;
+    color: rgb(245, 174, 112);
 }
 
 .colorH1 {
     text-decoration: underline;
-    color: sandybrown;
+    color: rgb(245, 199, 160);
     text-align: center;
     padding: 20px;
     margin: 20px;
